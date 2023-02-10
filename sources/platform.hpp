@@ -1,0 +1,2 @@
+void OpenDebugConsole();
+void CloseDebugConsole();
